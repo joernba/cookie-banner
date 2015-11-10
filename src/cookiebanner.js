@@ -254,6 +254,8 @@ THE SOFTWARE.
                 bg: '#000',
                 fg: '#ddd',
                 link: '#aaa',
+                linktarget: '_blank',
+                linkclassname: 'cookie-policy-link',
                 position: 'bottom',
                 message: default_text,
                 linkmsg: default_link,
@@ -431,7 +433,8 @@ THE SOFTWARE.
 
             var el_a = el.getElementsByTagName('a')[0];
             el_a.href = this.options.moreinfo;
-            el_a.target = '_blank';
+            el_a.target = this.options.linktarget;
+            el_a.className = this.options.linkclassname;
             el_a.style.textDecoration = 'none';
             el_a.style.color = this.options.link;
 

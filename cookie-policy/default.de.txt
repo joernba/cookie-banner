@@ -1,0 +1,44 @@
+Title: Cookie Policy
+
+----
+
+Text: 
+
+
+
+## Cookies
+
+Damit dieses Internetportal ordnungsgemäß funktioniert, legen wir manchmal kleine Dateien – sogenannte Cookies – auf Ihrem Gerät ab. Das ist bei den meisten großen Websites üblich.
+
+### Was sind Cookies?
+
+Ein Cookie ist eine kleine Textdatei, die ein Webportal auf Ihrem Rechner, Tablet-Computer oder Smartphone hinterlässt, wenn Sie es besuchen. So kann sich das Portal bestimmte Eingaben und Einstellungen (z. B. Login, Sprache, Schriftgröße und andere Anzeigepräferenzen) über einen bestimmten Zeitraum „merken“, und Sie brauchen diese nicht bei jedem weiteren Besuch und beim Navigieren im Portal erneut vorzunehmen.
+
+### Wie setzen wir Cookies ein?
+
+Adjust this part of the page according to your needs. Explain which cookies you usein plain, jargon-free language. In particular:
+
+- their purpose and the reason why they are being used, (e.g. to remember users' actions, to identify the user, for online behavioural advertising)
+- if they are essential for the website or a given functionality to work or if they aim to enhance the performance of the website
+- the types of cookies used (e.g. session or permanent, first or third-party)
+- who controls/accesses the cookie-related information (website or third party)
+- that the cookie will not be used for any purpose other than the one stated
+- how consent can be withdrawn.
+
+Example:
+
+Auf unseren Seiten verwenden wir Cookies zur Speicherung
+
+- Ihrer Vorlieben bei der Bildschirmanzeige , z. B. Kontrast und Schriftgröße
+- Ihrer etwaigen Teilnahme an einer Umfrage zur Nützlichkeit der Inhalte (damit Sie nicht erneut durch ein Pop-up-Fenster zur Beantwortung aufgefordert werden)
+- Ihrer Entscheidung zur (oder gegen die) Nutzung von Cookies auf diesem Portal.
+
+Auch einige auf unseren Seiten eingebettete Videos verwenden Cookies zur Erstellung anonymer Statistiken über die zuvor besuchten Seiten und die ausgewählten Videos.
+
+Das Akzeptieren von Cookies ist zwar für die Nutzung des Portals nicht unbedingt erforderlich, macht das Surfen aber angenehmer. Sie können Cookies blockieren oder löschen – das kann jedoch einige Funktionen dieses Portals beeinträchtigen.
+
+Die mithilfe von Cookies erhobenen Informationen werden nicht dazu genutzt, Sie zu identifizieren, und die Daten unterliegen vollständig unserer Kontrolle. Die Cookies dienen keinen anderen Zwecken als den hier genannten.
+
+### Kontrolle über Cookies
+
+Sie können Cookies nach Belieben steuern und/oder löschen. Wie, erfahren Sie hier: aboutcookies.org. Sie können alle auf Ihrem Rechner abgelegten Cookies löschen und die meisten Browser so einstellen, dass die Ablage von Cookies verhindert wird. Dann müssen Sie aber möglicherweise einige Einstellungen bei jedem Besuch einer Seite manuell vornehmen und die Beeinträchtigung mancher Funktionen in Kauf nehmen.
